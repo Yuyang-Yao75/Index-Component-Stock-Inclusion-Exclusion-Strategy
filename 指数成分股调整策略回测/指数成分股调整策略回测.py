@@ -1,3 +1,6 @@
+# Copyright (c) 2025 Yuyang Yao
+# SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+
 ANNUAL_RF = 0.02
 TRADING_DAYS = 244
 

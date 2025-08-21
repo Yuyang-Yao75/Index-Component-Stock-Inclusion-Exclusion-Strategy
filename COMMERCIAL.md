@@ -6,7 +6,7 @@ If you would like to use this project commercially (including but not limited to
 
 - **Email:** yyyao75@163.com
 - **Owner:** Yuyang Yao
-- **Repository:** https://github.com/Yuyang-Yao75/Attribution-Analysis-of-Options-Trading
+- **Repository:** https://github.com/Yuyang-Yao75/Index-Component-Stock-Inclusion-Exclusion-Strategy
 
 ## What to include in your request
 - Your organization and contact person
