@@ -173,3 +173,5 @@ Provides backtesting, parameter optimization, and weight calculation functionali
 ## 🙌 Acknowledgements & Citation
 
 If you use this project in your research, please cite it as described in `CITATION.cff`. Suggestions and PRs are welcome. Some referenced files or code may not be uploaded to GitHub; please contact the author via email for access if needed.
+
+> Note: This project is currently in a stage of partial completion, and there will be no updates in the short term. Honestly, I am well aware that the code still has many shortcomings in terms of structure, efficiency, and complexity. If you notice any issues while reading or using it, I sincerely welcome your feedback and criticism. I firmly believe that open exchange and genuine sharing are the foundation of mutual growth, and that is the true value of this work.
